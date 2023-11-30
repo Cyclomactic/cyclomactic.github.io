@@ -9,21 +9,18 @@
 </head>
 <body>
     <h1><img src="Cyclomactic_Logo_(Discord)-512x512.png" alt="logo" height="128" width="128"></h1>
-    <h2> 
-        <span style="color: white;">Play through:</span><br> 
-        <span style="color: fuchsia;">Random Factory Plus<br><br>
-    </h2>
-    <p style="color: white;font-size: large;">Mod list:<br>
-        <a style="color: fuchsia;" href="https://mods.factorio.com/mod/AutoDeconstruct">Auto Deconstruct<br>
-        <a style="color: fuchsia;" href="https://mods.factorio.com/mod/mining-patch-planner">Mining Patch Planner<br>
-        <a style="color: fuchsia;" href="https://mods.factorio.com/mod/Mower">Mower<br>
-        <a style="color: fuchsia;" href="https://mods.factorio.com/mod/RandomFactoryPlus">Random Factory Plus<br>
-        <a style="color: fuchsia;" href="https://mods.factorio.com/mod/rs-better-zero">Better Zero & Q Signal<br>
-        <a style="color: fuchsia;" href="https://mods.factorio.com/mod/Todo-List">Todo List<br>
-        <a style="color: fuchsia;" href="https://mods.factorio.com/mod/trainsaver">Train Saver<br>
-        <a style="color: fuchsia;" href="https://mods.factorio.com/mod/RateCalculator">Rate Calculator<br>
-        <a style="color: fuchsia;" href="https://mods.factorio.com/mod/StatsGui">Stats GUI<br>
-        </a>
-    </p>
+    <h2><span style="color: white;">Play through:</span><br><span style="color: fuchsia;">Random Factory Plus<br><br></h2>
+            <p style="color: white;font-size: large;">Mod list:<br>
+                <a style="color: fuchsia;" href="https://mods.factorio.com/mod/AutoDeconstruct">Auto Deconstruct<br>
+                <a style="color: fuchsia;" href="https://mods.factorio.com/mod/mining-patch-planner">Mining Patch Planner<br>
+                <a style="color: fuchsia;" href="https://mods.factorio.com/mod/Mower">Mower<br>
+                <a style="color: fuchsia;" href="https://mods.factorio.com/mod/RandomFactoryPlus">Random Factory Plus<br>
+                <a style="color: fuchsia;" href="https://mods.factorio.com/mod/rs-better-zero">Better Zero & Q Signal<br>
+                <a style="color: fuchsia;" href="https://mods.factorio.com/mod/Todo-List">Todo List<br>
+                <a style="color: fuchsia;" href="https://mods.factorio.com/mod/trainsaver">Train Saver<br>
+                <a style="color: fuchsia;" href="https://mods.factorio.com/mod/RateCalculator">Rate Calculator<br>
+                <a style="color: fuchsia;" href="https://mods.factorio.com/mod/StatsGui">Stats GUI<br>
+                </a>
+            </p>
 </body>
 </html>
