@@ -1,4 +1,56 @@
-body{
-     background-color: black;
-     text-align : center;
-    }
+body {
+     background-color: rgb(35, 36, 36);
+     margin: 0;
+     font-family: Arial, Helvetica, sans-serif;    
+}
+
+.main {
+     text-align: center;
+}
+
+.sub_pages {
+     text-align: left;
+}
+
+.link {
+     color: rgba(203,108,230,255);
+     font-size: large;
+     padding: 20px;
+}
+
+.text {
+     color: rgb(242, 246, 247);
+     font-size: x-large;
+}
+
+.quote {
+     color: rgb(242, 246, 247);
+     font-size: small;
+}
+
+.topnav {
+     overflow: hidden;
+     background-color: #333;
+        }
+        
+.topnav a {
+     float: left;
+     color: rgb(242, 246, 247);
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+     font-size: 17px;
+     /* padding: 7px 8px;
+     text-decoration: none;
+     font-size: 25px; */
+}
+
+.topnav a:hover {
+     background-color: rgb(242, 246, 247);
+     color: black;
+}
+
+.topnav a.active {
+     background-color: rgba(203,108,230,255);
+     color: rgb(242, 246, 247);
+}
